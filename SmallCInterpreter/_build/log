@@ -1,0 +1,6 @@
+# dune runtest -f
+# OCAMLPARAM: unset
+$ /usr/bin/getconf _NPROCESSORS_ONLN > /var/folders/lq/v35xz84d6fsgmp49yjrtb7z40000gn/T/dunee4f673.output 2> /dev/null
+$ /Users/AlexRusso/.opam/4.07.0/bin/ocamlc.opt -config > /var/folders/lq/v35xz84d6fsgmp49yjrtb7z40000gn/T/dune47abf2.output
+$ (cd _build/default && /Users/AlexRusso/.opam/4.07.0/bin/ocamldep.opt -modules -impl test/testUtils.ml) > _build/default/test/.public.eobjs/testUtils.ml.d
+$ (cd _build/default && /Users/AlexRusso/.opam/4.07.0/bin/ocamldep.opt -modules -impl test/public.ml) > _build/default/test/.public.eobjs/public.ml.d

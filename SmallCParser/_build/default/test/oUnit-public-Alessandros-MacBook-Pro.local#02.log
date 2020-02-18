@@ -1,0 +1,33 @@
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:1:assign_exp.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:1:assign_exp is successful.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:1:assign_exp.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:3:equal.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:3:equal is successful.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:3:equal.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:5:exp2.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:5:exp2 is successful.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:5:exp2.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:7:if.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:7:if is successful.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:7:if.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:9:if_else_while.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:9:if_else_while is successful.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:9:if_else_while.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:11:main.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:11:main is successful.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:11:main.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:13:nested_ifelse.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:13:nested_ifelse is successful.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:13:nested_ifelse.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:15:print.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:15:print is successful.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:15:print.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:17:test2.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:17:test2 is successful.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:17:test2.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:19:test4.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:19:test4 is successful.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:19:test4.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:21:while.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:21:while is successful.
+2019-04-12T00:18:25+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:21:while.
