@@ -1,0 +1,160 @@
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Runner: processes
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Chooser: simple
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration suite_name = "public"
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration cache_filename = "/Users/AlexRusso/cmsc330/project2a/_build/default/test/oUnit-$(suite_name).cache"
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration display = "true"
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration results_style_1_X = "false"
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration verbose = "false"
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration health_check_interval = "1."
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration testdata_dir = "none"
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration chooser = "simple"
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration output_html_dir = "none"
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration processes_kill_period = "5."
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration runner = "processes"
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration shards = "2"
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration processes_grace_period = "5."
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration log_encoding = "utf-8"
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration output_junit_file = "none"
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Configuration output_file = "/Users/AlexRusso/cmsc330/project2a/_build/default/test/oUnit-$(suite_name)-$(shard_id).log"
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Using 2 workers maximum.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Starting worker number Alessandros-MacBook-Pro.local#01.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Worker Alessandros-MacBook-Pro.local#01 started.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Starting worker number Alessandros-MacBook-Pro.local#02.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Worker Alessandros-MacBook-Pro.local#02 started.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:1:head_divisor, public:0:dup.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:0:dup.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:1:head_divisor, public:0:dup.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:0:dup is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:1:head_divisor, public:0:dup.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:0:dup.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:1:head_divisor, public:0:dup.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:2:second_element, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:2:second_element.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:2:second_element, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:2:second_element is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:2:second_element, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:2:second_element.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:2:second_element, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:3:max_first_three, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:3:max_first_three.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:3:max_first_three, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:3:max_first_three is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:3:max_first_three, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:3:max_first_three.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:3:max_first_three, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:4:cubes, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:4:cubes, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:4:cubes.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:4:cubes, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:4:cubes is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:4:cubes, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:4:cubes.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:4:cubes, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:1:head_divisor is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:5:sum_odd, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:5:sum_odd, public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:5:sum_odd.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:6:is_even_sum, public:5:sum_odd.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:6:is_even_sum.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:6:is_even_sum, public:5:sum_odd.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:5:sum_odd is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:6:is_even_sum, public:5:sum_odd.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:5:sum_odd.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:6:is_even_sum, public:5:sum_odd.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:7:count_occ, public:6:is_even_sum.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:6:is_even_sum is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:7:count_occ, public:6:is_even_sum.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:6:is_even_sum.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:7:count_occ.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:7:count_occ, public:6:is_even_sum.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:8:dup_list, public:7:count_occ.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:8:dup_list.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:8:dup_list, public:7:count_occ.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:7:count_occ is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:8:dup_list, public:7:count_occ.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:7:count_occ.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:8:dup_list, public:7:count_occ.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:9:elem, public:8:dup_list.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:8:dup_list is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:9:elem, public:8:dup_list.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:8:dup_list.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:9:elem.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:9:elem, public:8:dup_list.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:10:subset, public:9:elem.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:10:subset.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:10:subset, public:9:elem.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:9:elem is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:10:subset, public:9:elem.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:9:elem.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:10:subset, public:9:elem.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:11:remove, public:10:subset.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:10:subset is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:11:remove, public:10:subset.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:10:subset.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:11:remove.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:11:remove, public:10:subset.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:12:union, public:11:remove.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:12:union.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:12:union, public:11:remove.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:11:remove is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:12:union, public:11:remove.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:11:remove.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:12:union, public:11:remove.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:13:diff, public:12:union.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:13:diff.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:13:diff, public:12:union.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:12:union is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:13:diff, public:12:union.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:12:union.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:13:diff, public:12:union.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Still 2 tests running : public:14:cat, public:13:diff.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:14:cat, public:13:diff.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:13:diff is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:14:cat.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Still 2 tests running : public:14:cat, public:13:diff.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:14:cat, public:13:diff.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:13:diff.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Still 2 tests running : public:14:cat, public:13:diff.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 2 tests running: public:14:cat, public:13:diff.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Still 1 tests running : public:14:cat.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 1 tests running: public:14:cat.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:14:cat is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Still 1 tests running : public:14:cat.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 1 tests running: public:14:cat.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:14:cat.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Still 1 tests running : public:14:cat.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 1 tests running: public:14:cat.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 0 tests running: .
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Worker Alessandros-MacBook-Pro.local#02 has ended.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: 0 tests running: .
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Worker Alessandros-MacBook-Pro.local#01 has ended.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Used 2 worker during test execution.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Run 9 tests with shard Alessandros-MacBook-Pro.local#01.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Run 6 tests with shard Alessandros-MacBook-Pro.local#02.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: ==============
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Summary:
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:14:cat is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:13:diff is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:12:union is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:11:remove is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:10:subset is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:9:elem is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:8:dup_list is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:7:count_occ is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:6:is_even_sum is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:5:sum_odd is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:1:head_divisor is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:4:cubes is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:3:max_first_three is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:2:second_element is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Test public:0:dup is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Ran: 15 tests in: 0.11 seconds.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Cases: 15.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Tried: 15.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Errors: 0.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Failures: 0.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Skip: 0.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Todo: 0.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#00 I: Timeout: 0.

@@ -1,0 +1,17 @@
+# dune runtest -f
+# OCAMLPARAM: unset
+$ /usr/bin/getconf _NPROCESSORS_ONLN > /var/folders/lq/v35xz84d6fsgmp49yjrtb7z40000gn/T/dune31691b.output 2> /dev/null
+$ /Users/AlexRusso/.opam/4.07.0/bin/ocamlc.opt -config > /var/folders/lq/v35xz84d6fsgmp49yjrtb7z40000gn/T/dune5fce17.output
+$ (cd _build/default && /Users/AlexRusso/.opam/4.07.0/bin/ocamldep.opt -modules -impl src/basics.ml) > _build/default/src/.basics.objs/basics.ml.d
+$ (cd _build/default && /Users/AlexRusso/.opam/4.07.0/bin/ocamlopt.opt -w -40 -g -I src/.basics.objs/byte -I src/.basics.objs/native -intf-suffix .ml -no-alias-deps -o src/.basics.objs/native/basics.cmx -c -impl src/basics.ml)
+$ (cd _build/default && /Users/AlexRusso/.opam/4.07.0/bin/ocamlopt.opt -w -40 -g -a -o src/basics.cmxa src/.basics.objs/native/basics.cmx)
+$ (cd _build/default && /Users/AlexRusso/.opam/4.07.0/bin/ocamlopt.opt -w -40 -g -o test/public.exe -I /Users/AlexRusso/.opam/4.07.0/lib/bytes -I /Users/AlexRusso/.opam/4.07.0/lib/oUnit -I src src/basics.cmxa /Users/AlexRusso/.opam/4.07.0/lib/ocaml/unix.cmxa /Users/AlexRusso/.opam/4.07.0/lib/oUnit/oUnitAdvanced.cmxa /Users/AlexRusso/.opam/4.07.0/lib/oUnit/oUnit.cmxa test/.public.eobjs/native/testUtils.cmx test/.public.eobjs/native/public.cmx)
+$ (cd _build/default && /Users/AlexRusso/.opam/4.07.0/bin/ocamlopt.opt -w -40 -g -o test/student.exe -I /Users/AlexRusso/.opam/4.07.0/lib/bytes -I /Users/AlexRusso/.opam/4.07.0/lib/oUnit -I src src/basics.cmxa /Users/AlexRusso/.opam/4.07.0/lib/ocaml/unix.cmxa /Users/AlexRusso/.opam/4.07.0/lib/oUnit/oUnitAdvanced.cmxa /Users/AlexRusso/.opam/4.07.0/lib/oUnit/oUnit.cmxa test/.public.eobjs/native/student.cmx)
+$ (cd _build/default/test && ./public.exe)
+> ...............
+> Ran: 15 tests in: 0.11 seconds.
+> OK
+$ (cd _build/default/test && ./student.exe)
+> .
+> Ran: 1 tests in: 0.10 seconds.
+> OK

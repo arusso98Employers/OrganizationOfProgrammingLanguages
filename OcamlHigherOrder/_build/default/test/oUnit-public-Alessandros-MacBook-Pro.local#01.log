@@ -1,0 +1,17 @@
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:0:high_order_1.
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:0:high_order_1 is successful.
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:0:high_order_1.
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:2:int_tree.
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:2:int_tree is successful.
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:2:int_tree.
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:3:test_int_tree_qcheck.
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: [2Klaw test_int_tree_qcheck: 500 relevant cases (500 total)
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: 
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:3:test_int_tree_qcheck is successful.
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:3:test_int_tree_qcheck.
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:4:ptree_1.
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:4:ptree_1 is successful.
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:4:ptree_1.
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:6:graph_1.
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:6:graph_1 is successful.
+2019-03-02T05:43:42+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:6:graph_1.

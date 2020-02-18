@@ -1,0 +1,27 @@
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:0:dup.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:0:dup is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:0:dup.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:2:second_element.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:2:second_element is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:2:second_element.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:3:max_first_three.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:3:max_first_three is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:3:max_first_three.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:4:cubes.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:4:cubes is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:4:cubes.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:5:sum_odd.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:5:sum_odd is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:5:sum_odd.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:7:count_occ.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:7:count_occ is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:7:count_occ.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:9:elem.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:9:elem is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:9:elem.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:11:remove.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:11:remove is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:11:remove.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Start test public:13:diff.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: Test public:13:diff is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#01 I: End test public:13:diff.

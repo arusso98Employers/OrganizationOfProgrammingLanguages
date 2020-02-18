@@ -1,0 +1,18 @@
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:1:head_divisor is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:1:head_divisor.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:6:is_even_sum.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:6:is_even_sum is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:6:is_even_sum.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:8:dup_list.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:8:dup_list is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:8:dup_list.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:10:subset.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:10:subset is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:10:subset.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:12:union.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:12:union is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:12:union.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Start test public:14:cat.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: Test public:14:cat is successful.
+2019-02-23T00:20:41+00:00 Alessandros-MacBook-Pro.local#02 I: End test public:14:cat.
